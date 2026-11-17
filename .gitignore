@@ -34,4 +34,4 @@ build/
 
 
 ### manual git ignore files ###
-src/main/resources/credentials.properties
+patient-service/src/main/resources/credentials.properties

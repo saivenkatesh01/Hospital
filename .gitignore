@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+### manual git ignore files ###
+src/main/resources/credentials.properties
